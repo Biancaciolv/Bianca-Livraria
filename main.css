@@ -8,18 +8,18 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
+    font-family: 'Anton', sans-serif;
     font-weight: normal;
 }
 
 body, input, textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Lato', sans-serif;
 }
 
 header {
     padding: 16px 0;
-    background-color: #182c61;
-    color: #ecf0f1;
+    background-color: #702388;
+    color: #e2f15b;
 }
 
 header nav li {
@@ -29,8 +29,8 @@ header nav li {
 }
 
 header nav li a {
-    color: #ecf0f1;
-    text-decoration: none   ;
+    color: #f1f2f3;
+    text-decoration: none;
 }
 
 .container {
@@ -47,12 +47,12 @@ section .container {
 }
 
 .brands-list img {
-    height: 24px;
+    height: 54px;
 }
 
 .brands-list li {
     display: inline;
-    margin-right: 8px;
+    margin-right: 18px;
 }
 
 section .container {
@@ -68,7 +68,7 @@ section h2 {
 }
 
 section {
-    color: #182c61;
+    color: #26102c;
 }
 
 section p {
@@ -120,22 +120,22 @@ section h3 {
 }
 
 form button {
-    background-color: #182c61;
+    background-color: #702388;
     color: #ecf0f1;
     border: none;
     cursor: pointer;
 }
 
 form button:hover {
-    background-color: #314e9e;
+    background-color: #e9cee2;
 }
 
 input:focus, textarea:focus {
-    outline-color: #182c61;
+    outline-color: #702388;
 }
 
 footer {
-    background-color: #182c61;
+    background-color: #311a33;
     color: #ecf0f1;
     padding: 16px 0;
 }
